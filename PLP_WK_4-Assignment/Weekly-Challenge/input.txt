@@ -1,0 +1,5 @@
+Hello, this is the first line of text.
+We are now on the second line.
+This file has several words.
+Let's see how many words are counted.
+This is the final line for the test.
